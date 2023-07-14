@@ -1,3 +1,3 @@
 # Kenniku's LHL Notes
 
-This repository will contain all the notes for LHL's compass modules.
+This repository contains all of the notes taken by [Kenniku](https://github.com/knnku) for the [Lighthouse&nbsp;Labs](https://www.lighthouselabs.ca) Web Development Bootcamp.
